@@ -1,6 +1,6 @@
 // 中文内容
 const zhContent = {
-  title: "客户痛点",
+  // title: "客户痛点",
   subtitle: "我们理解您的困扰",
   painPoints: [
     {
@@ -23,7 +23,7 @@ const zhContent = {
 
 // 英文内容
 const enContent = {
-  title: "Customer Pain Points",
+  // title: "Customer Pain Points",
   subtitle: "We understand your challenges",
   painPoints: [
     {

@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 // 中文内容
 const zhContent = {
-  title: "常见问题",
+  // title: "常见问题",
   subtitle: "您可能关心的问题",
   faqs: [
     {
@@ -26,7 +26,7 @@ const zhContent = {
 
 // 英文内容
 const enContent = {
-  title: "Frequently Asked Questions",
+  // title: "Frequently Asked Questions",
   subtitle: "Questions you might have",
   faqs: [
     {

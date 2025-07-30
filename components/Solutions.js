@@ -1,6 +1,6 @@
 // 中文内容
 const zhContent = {
-  title: "解决方案",
+  // title: "解决方案",
   subtitle: "我们的AI客服能力",
   description: "通过人工智能技术，重新定义客户服务体验",
   solutions: [
@@ -24,7 +24,7 @@ const zhContent = {
 
 // 英文内容
 const enContent = {
-  title: "Solutions",
+  // title: "Solutions",
   subtitle: "Our AI Customer Service Capabilities",
   description: "Redefining customer service experiences through artificial intelligence",
   solutions: [

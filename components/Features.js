@@ -1,6 +1,6 @@
 // 中文内容
 const zhContent = {
-  title: "产品亮点",
+  // title: "产品亮点",
   subtitle: "为什么选择我们的AI客服",
   features: [
     {
@@ -24,7 +24,7 @@ const zhContent = {
 
 // 英文内容
 const enContent = {
-  title: "Product Features",
+  // title: "Product Features",
   subtitle: "Why Choose Our AI Customer Service",
   features: [
     {

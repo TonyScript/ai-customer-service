@@ -1,6 +1,6 @@
 // 中文内容
 const zhContent = {
-  title: "客户案例",
+  // title: "客户案例",
   subtitle: "他们都在使用我们的AI客服",
   testimonials: [
     {
@@ -20,7 +20,7 @@ const zhContent = {
 
 // 英文内容
 const enContent = {
-  title: "Customer Stories",
+  // title: "Customer Stories",
   subtitle: "They're using our AI customer service",
   testimonials: [
     {

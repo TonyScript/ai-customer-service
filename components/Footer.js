@@ -6,7 +6,7 @@ const zhContent = {
   email: "contact@example.com",
   github: "GitHub 项目",
   legal: "法律信息",
-  copyright: "© 2023 AI客服. 保留所有权利.",
+  copyright: "© 2025 AI客服. 保留所有权利.",
   icp: "ICP备案号: 京ICP备00000000号"
 };
 
@@ -18,7 +18,7 @@ const enContent = {
   email: "contact@example.com",
   github: "GitHub Project",
   legal: "Legal Information",
-  copyright: "© 2023 AI Customer Service. All rights reserved.",
+  copyright: "© 2025 AI Customer Service. All rights reserved.",
   icp: "ICP License: 京ICP备00000000号"
 };
 
@@ -43,11 +43,11 @@ export default function Footer({ language }) {
                   {content.email}
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href="https://github.com/TonyScript/ai-customer-service" className="text-base text-gray-300 hover:text-white">
                   {content.github}
                 </a>
-              </li>
+              </li> */}
             </ul>
           </div>
           <div>
